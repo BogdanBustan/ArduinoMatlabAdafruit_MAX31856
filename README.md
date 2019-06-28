@@ -16,11 +16,11 @@ Written in MATLAB R2018b.
 
 ## Wiring
 These sensors use SPI to communicate, 4 pins are required to interface: SCLK, MISO, MOSI, CS. Use the hardware defined SPI pins. CS pin
-can be chosen arbitrary. 
-More at: https://learn.adafruit.com/adafruit-max31856-thermocouple-amplifier/wiring-and-test
+can be chosen arbitrary.  
+More at: https://learn.adafruit.com/adafruit-max31856-thermocouple-amplifier/wiring-and-test  
 Adafruit invests time and resources providing this open source code, please support Adafruit and open-source hardware by purchasing products from Adafruit!
 
 ## License and Credits
 Original Arduino library written by Limor Fried/Ladyada for Adafruit Industries under BSD license. For more information check Adafruit
-Github repository: 
+Github repository:  
 https://github.com/adafruit/Adafruit_MAX31856 
