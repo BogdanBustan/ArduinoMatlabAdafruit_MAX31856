@@ -2,7 +2,7 @@
 
 ## General Information
 Adapted Arduino library of Adafruit MAX31856 Thermocouple Breakout for use in MATLAB.
-https://www.adafruit.com/product/3263
+https://www.adafruit.com/product/3263  
 Written in MATLAB R2018b.
 
 ## Software Prerequisites
